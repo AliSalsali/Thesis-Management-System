@@ -1,0 +1,12 @@
+[
+  {
+    "request_id": "95a16875-f285-4b05-b778-9226b832798e",
+    "type": "course_request",
+    "student_id": "981010",
+    "course_id": "C001",
+    "professor_id": "prof01",
+    "request_date": "2025-09-16T23:07:03.324280",
+    "status": "Approved",
+    "approval_date": "2025-09-16T23:14:32.945842"
+  }
+]
